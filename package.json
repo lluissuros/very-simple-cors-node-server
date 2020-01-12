@@ -1,0 +1,21 @@
+{
+  "name": "jwt-demo",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Lluis Suros",
+  "scripts": {
+    "server": "node app.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.1",
+    "body-parser": "~1.18.2",
+    "concurrently": "^3.6.1",
+    "config": "^3.2.4",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.15.6",
+    "nodemon": "^1.17.3"
+  }
+}
